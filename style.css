@@ -1,0 +1,50 @@
+body{
+    background-color:#e7a5a5 ;
+   
+    text-align:center;
+
+}
+
+h1{
+    padding:2%;
+    font-size: 4.5em;
+    font-family: 'Press Start 2P', cursive;
+}
+.container
+{
+    background-color: rgb(105, 43, 43);
+  
+    margin:2% 2% 2% 10%;
+}
+.row
+{
+    padding:2% 15% ;
+}
+.col
+{
+    border: 10px solid rgb(0, 0, 0);
+    margin: 2% 10%;
+    padding:2% 2% 2% 2%;
+    height: 150px;
+    width:40px;
+}
+
+#white
+{
+    background-color: rgb(253, 253, 253);
+}
+
+#blue
+{
+    background-color: rgb(44, 35, 126);
+}
+
+#green
+{
+    background-color: rgb(23, 110, 45);
+}
+
+#yellow
+{
+    background-color: rgb(225, 247, 28);
+}
